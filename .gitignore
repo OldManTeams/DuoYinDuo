@@ -15,3 +15,7 @@ selenium-debug.log
 *.ntvs*
 *.njsproj
 *.sln
+/DuoYinDuo.rar
+/.idea
+/node_modules
+/设计文档
